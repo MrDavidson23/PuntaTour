@@ -391,6 +391,16 @@ img {
 * {
   box-sizing: border-box; }
 
+#promotion-container {
+  background-image: linear-gradient(0deg, #8ce9e6 23.8%, white 92%);
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lato', sans-serif;
+  margin: 0; }
+
 #our-container {
   background-image: linear-gradient(0deg, #66d3e6 23.8%, #e0e4cd 92%);
   height: 90vh;
